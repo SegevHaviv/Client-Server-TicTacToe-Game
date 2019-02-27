@@ -1,1 +1,2 @@
+<h1> Client Server Tic Tac Toe Game </h1> 
 A client-server tic tac toe game written in C++ on Linux OS. The project is divided to few pieces which is an independent piece and can function by it's own. The architecture combines also the P2P architecture while there's a game conducting, the users are being transfered to their own session by UDP sockets. Besides that all is being done by TCP. For further questions please email to: Segevhaviv@gmail.com
